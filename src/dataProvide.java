@@ -8,7 +8,7 @@ public class dataProvide {
 	@Test
 	public void testCaseData()
 	{
-		
+		//ini project error
 	}
 	
 	
@@ -17,7 +17,8 @@ public class dataProvide {
 	@DataProvider
 	public void getData()
 	{
-		Object[][] data = {};
+		//Object[][] data = {};
+		Object[][] data = {{"tes"},{"yaaa"}};
 	}
 	
 }
