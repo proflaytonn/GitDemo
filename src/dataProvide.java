@@ -21,4 +21,10 @@ public class dataProvide {
 		Object[][] data = {{"tes"},{"yaaa"}};
 	}
 	
+	@DataProvider
+	public void dataDummyForMerging()
+	{
+		//di developBranch ini method tidak ada
+	}
+	
 }
